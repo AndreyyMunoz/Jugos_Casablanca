@@ -1,0 +1,41 @@
+name: jugos_casablanca
+description: "Una aplicación del tipo 'delivery' en la que podrás hacer compras a Jugos Casablanca."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^5.0.0
+  cupertino_icons: ^1.0.6
+  curved_navigation_bar: ^1.0.5
+  firebase_auth: ^5.0.0
+  firebase_core: ^3.0.0
+  firebase_storage: ^12.0.0
+  flutter:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_stripe: ^10.1.1
+  flutterfire_cli: ^1.0.1-dev.1
+  google_fonts: ^6.2.1
+  http: ^1.2.1
+  image_picker: ^1.1.2
+  random_string: ^2.3.1
+  shared_preferences: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-SemiBold.ttf

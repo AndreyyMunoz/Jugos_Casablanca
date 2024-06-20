@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289337442557",
+    "project_id": "jugos-casa-blanca",
+    "storage_bucket": "jugos-casa-blanca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289337442557:android:e11b5a988824aa59cd7e94",
+        "android_client_info": {
+          "package_name": "com.example.jugos_casablanca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWtpGHv7Gh-IlK0dD9IvjJhtsxi52K1Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
