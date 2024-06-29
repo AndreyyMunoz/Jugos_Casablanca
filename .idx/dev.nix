@@ -35,6 +35,7 @@
           "emulator-5554"
         ];
         manager = "flutter";
+        
       };
     };
   };

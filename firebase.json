@@ -1,1 +1,25 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"jugos-casa-blanca","appId":"1:289337442557:android:e11b5a988824aa59cd7e94","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"jugos-casa-blanca","configurations":{"android":"1:289337442557:android:e11b5a988824aa59cd7e94","ios":"1:289337442557:ios:e7245f1e4c294b6fcd7e94","macos":"1:289337442557:ios:e7245f1e4c294b6fcd7e94","web":"1:289337442557:web:8532eb0c79b5ece4cd7e94","windows":"1:289337442557:web:71871135519476a2cd7e94"}}}}}}
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "jugos-casa-blanca",
+                    "appId": "1:289337442557:android:e11b5a988824aa59cd7e94",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "jugos-casa-blanca",
+                    "configurations": {
+                        "android": "1:289337442557:android:e11b5a988824aa59cd7e94",
+                        "ios": "1:289337442557:ios:e7245f1e4c294b6fcd7e94",
+                        "macos": "1:289337442557:ios:e7245f1e4c294b6fcd7e94",
+                        "web": "1:289337442557:web:8532eb0c79b5ece4cd7e94",
+                        "windows": "1:289337442557:web:71871135519476a2cd7e94"
+                    }
+                }
+            }
+        }
+    }
+}
